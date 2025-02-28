@@ -2,47 +2,55 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1bff00&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+WORLD!+My+Name+is+Rafael+Rocha+.+.+.;Graduated+back-end+programmer+.+.;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Rafazildox&show_icons=true&count_private=true&hide_border=true&title_color=1bff00&icon_color=1bff00&text_color=c9d1d9&bg_color=0d1117" alt="Rafael github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafazildox&layout=compact&hide_border=true&title_color=1bff00&text_color=1bff00&bg_color=0d1117" />
-</div>
+# 💫 About Me:
+Back-end Programmer Crazy about solving, automating everything and debugging problems
+
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-009eff.svg?style=for-the-badge&logo=csharp&logoColor=009eff) 
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
+
+
+## 👨‍💻 Other Technologies I'm studying
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Pyautogui](https://img.shields.io/badge/Pyautogui-373535?style=for-the-badge&logo=Pyautogui&labelColor=373535)
+![Pycharm](https://img.shields.io/badge/Pycharm-373535?style=for-the-badge&logo=Pycharm&labelColor=373535)
+![Selenium](https://img.shields.io/badge/Selenium-133d04?style=for-the-badge&logo=Selenium&labelColor=133d04)
+
+### Tools:
+![visual studio community](https://img.shields.io/badge/visual%20studio%20community-5d00ff?style=for-the-badge&logo=visual-studio-community&logoColor=5d00ff&labelColor=5d00ff)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0027ff?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)
+![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=Linux&labelColor=0D1117)
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rafaelrochatech) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Rafazildox) 
+
+# 📊 GitHub Stats:
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rafazildox&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rafazildox&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
 <div align="center">  
-<a href="https://www.linkedin.com/in/rafaelrochatech/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black"</a>
-</div> 
- 
-### Main skills:
-![C#](https://img.shields.io/badge/-Csharp-0D1117?style=for-the-badge&logo=C&labelColor=0D1117&textColor=0D1117)&nbsp;
-![.NET](https://img.shields.io/badge/-.NET-0D1117?style=for-the-badge&logo=.NET&labelColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Banco_De_Dados](https://img.shields.io/badge/-Banco_de_dados-0D1117?style=for-the-badge&logo=Databricks&logoColor=1bff00&labelColor=0D1117)&nbsp; 
- 
-### Tools:
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=Linux&labelColor=0D1117)&nbsp;
- 
-### Other Knowledge:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-  
-### Studying in this moment:
-![C#](https://img.shields.io/badge/-Csharp-0D1117?style=for-the-badge&logo=C&labelColor=0D1117&textColor=0D1117)&nbsp;
-![.NET](https://img.shields.io/badge/-.NET-0D1117?style=for-the-badge&logo=.NET&labelColor=0D1117)&nbsp;
-![Banco_De_Dados](https://img.shields.io/badge/-Banco_de_dados-0D1117?style=for-the-badge&logo=Databricks&logoColor=1bff00&labelColor=0D1117)&nbsp; 
+<img width="200%" height="195px" src="https://nirzak-streak-stats.vercel.app/?user=rafazildox&theme=blue-green&hide_border=false" alt="Rafael github stats"/> 
+<img width="50%" height="200px"
+src="https://github-readme-stats.vercel.app/api?username=rafazildox&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true"alt="Rafael github stats"/> 
+<img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafazildox&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Rafael github stats"/> 
+</div>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=rafazildox&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=rafazildox&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1bff00&height=120&section=footer"/>
-
